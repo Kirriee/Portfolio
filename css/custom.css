@@ -1,0 +1,9 @@
+/* your styles go here */
+
+#page1 {
+  text-align: center;
+  background: url('../img/lucht.jpg') center center no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+
